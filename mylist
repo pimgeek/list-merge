@@ -3,6 +3,7 @@ ls
 grep
 
 touch
+<<<<<<< HEAD
 mkdir
 vi
 vim
@@ -23,3 +24,16 @@ type
 cp
 mv
 
+=======
+vim
+sed
+sort
+uniq
+sleep
+top
+less
+more
+exec
+eval
+export
+>>>>>>> 06989c9a39dc0244038c3a0ad5efd2e6570500c3
