@@ -1,12 +1,23 @@
+awk
 cat
 cd
 cp
 ctrl-c
 ctrl-d
 egrep
+<<<<<<< HEAD
+=======
+eval
+erep
+merger
+>>>>>>> 4f9d55e5ba04e8fef8ddfc9b953ff89ff6b5c65e
 ls
 merger
 find
 more
 rm
+<<<<<<< HEAD
 mkdir
+=======
+mkdri
+>>>>>>> 4f9d55e5ba04e8fef8ddfc9b953ff89ff6b5c65e
