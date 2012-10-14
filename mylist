@@ -3,11 +3,10 @@ cd
 cp
 ctrl-c
 ctrl-d
-erep
-merger
+egrep
 ls
+merger
 find
 more
 rm
-mkdri
-
+mkdir
