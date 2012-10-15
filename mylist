@@ -1,6 +1,9 @@
+awk
 cat
 cd
 cp
 ctrl-c
 ctrl-d
 egrep
+eval
+exec
