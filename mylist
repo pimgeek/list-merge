@@ -2,3 +2,14 @@ cat
 ls
 grep
 touch
+vim
+sed
+sort
+uniq
+sleep
+top
+less
+more
+exec
+eval
+export
